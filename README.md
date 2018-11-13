@@ -15,4 +15,5 @@
 - [纯函数](./2018-10纯函数.md)  - Simon
 - [charles mac版手机抓包](./2018-10charles手机抓包.md)  - st
 - [图片转webp](./2018-10图片转webp.md)  - st
+- [Promise链式调用解析](./2018-11-13Promise链式调用解析.md)  - st
 
